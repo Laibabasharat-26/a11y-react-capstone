@@ -1,8 +1,6 @@
-# Accessibility Capstone
-
 # A11y React Capstone
 
-This repository contains my accessibility capstone project completed as part of an AI-assisted development track.
+An accessibility-focused React project completed as part of an AI-assisted development track.
 
 ## Project Goals
 
